@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full-Stack web Development**
 
-- 💬 Ask me about **CSS ,JS , MySQL**
+- 💬 Ask me about **HTML ,CSS ,JS , Bootstrap ,MySQL , Python , jQuery**
 
 - 📫 How to reach me **ayushmandliya5@gmail.com**
 
