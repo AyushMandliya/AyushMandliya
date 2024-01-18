@@ -1,21 +1,21 @@
     greetWorld() {
         return "Hello, fellow explorer! 🌍✨";
     }
-    console.log("👋 Welcome to the Repository of Curiosity! 🚀 \n");
+    console.log("👋 Welcome to the Repository of Curiosity! 🚀 ");
 
 
 
     MyGitHubJourney () {
     constructor() {
-        this.username = "Ayush Mandliya \n";
-        this.email = "ayushmandliya5@gmail.com \n";
-        this.currentMission = "Conquering the coding cosmos \n";
-        this.favoriteTechStack = ["JavaScript", "React", "Node.js \n" ];
-        this.programming=[" C, C++, Python" \n];
+        this.username = "Ayush Mandliya ";
+        this.email = "ayushmandliya5@gmail.com ";
+        this.currentMission = "Conquering the coding cosmos ";
+        this.favoriteTechStack = ["JavaScript", "React", "Node.js " ];
+        this.programming=[" C, C++, Python" ];
         this.connectOnPlatforms = {
-            "LinkedIn": "https://www.linkedin.com/in/ayush-mandliya-226735227 \n",
-            "Twitter": "https://twitter.com/ayushmandliya5 \n",
-            "Leetocde": "https://leetcode.com/Ayush_Mandliya/ \n"
+            "LinkedIn": "https://www.linkedin.com/in/ayush-mandliya-226735227 ",
+            "Twitter": "https://twitter.com/ayushmandliya5 ",
+            "Leetocde": "https://leetcode.com/Ayush_Mandliya/ "
         };
     }
 
