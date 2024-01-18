@@ -1,8 +1,11 @@
-console.log("👋 Welcome to the Repository of Curiosity! 🚀 \n");
+    greetWorld() {
+        return "Hello, fellow explorer! 🌍✨";
+    }
+    console.log("👋 Welcome to the Repository of Curiosity! 🚀 \n");
 
-<img align="right" alt="coder" width="400" src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg">
 
-class MyGitHubJourney {
+
+    MyGitHubJourney () {
     constructor() {
         this.username = "Ayush Mandliya \n";
         this.email = "ayushmandliya5@gmail.com \n";
@@ -14,10 +17,6 @@ class MyGitHubJourney {
             "Twitter": "https://twitter.com/ayushmandliya5 \n",
             "Leetocde": "https://leetcode.com/Ayush_Mandliya/ \n"
         };
-    }
-
-    greetWorld() {
-        return "Hello, fellow explorer! 🌍✨";
     }
 
     shareExperience() {
