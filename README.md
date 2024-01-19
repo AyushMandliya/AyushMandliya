@@ -64,7 +64,7 @@
    <a href="https://twitter.com/ayushmandliya5">
        ![Twitter: Ayush](https://img.shields.io/twitter/follow/AyushMandliya?style=social)
    </a>
-   <a href="https://www.instagram.com/047_pegasus/">
+   <a href="https://www.instagram.com/_just__maybe__?igsh=Z3dwNnZtY3ozNnRx">
        ![Instagram: Ayush](https://img.shields.io/badge/-AyushMandliya-000?&logo=Instagram)
    </a>
    <a href="https://github.com/AyushMandliya">
