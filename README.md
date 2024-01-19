@@ -24,7 +24,6 @@
             LinkedIn: "https://linkedin.com/in/ayush-mandliya-226735227",
             Facebook: "https://www.facebook.com/ayushjimandliya/",
             Instagram: "https://www.instagram.com/_.aa_ush._ji_/",
-            CodeChef: "https://www.codechef.com/users/ayush_mandliya",
         };
     }
 
