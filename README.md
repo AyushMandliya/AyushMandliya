@@ -1,29 +1,104 @@
-<h1 align="center">Hi 👋, I'm Ayush Mandliya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+   
+   <p align="left"><aside>
+    # 👋 Hello, I'm Ayush Mandliya
 
-<img align="right" alt="coder" width="400" src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg">
+    ## About Me
+    
+    - 🎓 Pre-placement year student pursuing Bachelor of Technology at Jaypee University of engineering and Technology .
+    - 💻 Passionate about coding and software development.
+    - 🚀 Actively seeking opportunities to enhance my skills and contribute to meaningful projects.
+    
+   </aside> 
+   </p>
+   
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmandliya&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmandliya" /> </p>
 
-- 🌱 I’m currently learning **Full-Stack web Development**
+    class MyGitHubJourney {
+    constructor() {
+        this.username = "Ayush Mandliya";
+        this.email = "ayushmandliya5@gmail.com";
+        this.currentMission = "Conquering the coding cosmos";
+        this.favoriteTechStack = ["JavaScript", "React", "Node.js"];
+        this.programming = ["C", "C++", "Python"];
+        this.connectOnPlatforms = {
+            LinkedIn: "https://linkedin.com/in/ayush-mandliya-226735227",
+            Facebook: "https://www.facebook.com/ayushjimandliya/",
+            Instagram: "https://www.instagram.com/_.aa_ush._ji_/",
+            CodeChef: "https://www.codechef.com/users/ayush_mandliya",
+        };
+    }
 
-- 💬 Ask me about **HTML ,CSS ,JS , Bootstrap ,MySQL , Python , jQuery**
+    greetWorld() {
+        return "Hello, fellow explorer! 🌍✨";
+    }
 
-- 📫 How to reach me **ayushmandliya5@gmail.com**
+    shareExperience() {
+        return "Embarking on an epic journey through code. Join me in the quest for knowledge and innovation!";
+    }
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-mandliya-226735227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-mandliya-226735227" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ayushjimandliya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ayushjimandliya/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_.aa_ush._ji_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.aa_ush._ji_/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ayush_mandliya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayush_mandliya" height="30" width="40" /></a>
-</p>
+    getContactInfo() {
+        let contactInfo = `📧 Connect with me via email: ${this.email}\n🔗 Find me on: ayushmandliya5@gmail.com`;
+        for (const [platform, link] of Object.entries(this.connectOnPlatforms)) {
+            contactInfo += `\n   - [${platform}](${link})`;
+        }
+        return contactInfo;
+      }
+    }
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+    const adventurer = new MyGitHubJourney();
+    console.log(adventurer.greetWorld());
+    console.log(adventurer.shareExperience());
+    console.log(adventurer.getContactInfo());
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushmandliya&show_icons=true&locale=en&layout=compact" alt="ayushmandliya" /></p>
+   
+   -------------------
+   
+   ## Me around the web:
+   -------------------
+   [![My Socials](https://skillicons.dev/icons?i=linkedin,twitter,instagram,github,stackoverflow,devto,discord&perline=11)](https://skillicons.dev)
+   &emsp;
+   <br/><br/>
+   <a href="https://www.linkedin.com/in/ayush-mandliya-226735227">
+       ![Linkedin: Ayush Mandliya](https://img.shields.io/badge/-AyushMandliya-blue?style=flat-square&logo=Linkedin&logoColor=white)
+   </a>
+   <a href="https://twitter.com/ayushmandliya5">
+       ![Twitter: Ayush](https://img.shields.io/twitter/follow/AyushMandliya?style=social)
+   </a>
+   <a href="https://www.instagram.com/047_pegasus/">
+       ![Instagram: Ayush](https://img.shields.io/badge/-AyushMandliya-000?&logo=Instagram)
+   </a>
+   <a href="https://github.com/AyushMandliya">
+       ![GitHub: Ayush](https://img.shields.io/github/followers/AyushMandliya?label=follow&style=social)
+   </a>
+   
+   ## 🛠️ My Skills
+   -------------------
+   ### Programming languages:
+   &emsp;
+   [![My ProgrammingSkills](https://skillicons.dev/icons?i=cpp,js,c,java,py&perline=11)](https://skillicons.dev)
+   
+   ### Dev Stack:
+   &emsp;
+   [![My Stack](https://skillicons.dev/icons?i=react,redux,next,nodejs,tailwind,materialui,css,scss,html)](https://skillicons.dev)
+   
+   ### Tool Stack:
+   &emsp;
+   [![My Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,powershell,netlify,replit,figma)](https://skillicons.dev)
+   
+   ### Databases:
+   &emsp;
+   [![My Frameworks](https://skillicons.dev/icons?i=mysql,sqlite,mongo&perline=11)](https://skillicons.dev)
+   
+   &emsp;
+   
+   ## 💻📊🔥 Statistics and Activity
+      
+   ###  Streak Stats
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushmandliya&show_icons=true&locale=en&layout=compact" alt="ayushmandliya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushmandliya&show_icons=true&locale=en" alt="ayushmandliya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmandliya&" alt="ayushmandliya" /></p>
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushmandliya&show_icons=true&locale=en" alt="ayushmandliya" /></p>
+   
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmandliya&" alt="ayushmandliya" /></p>
+      
+   <br>
+   
