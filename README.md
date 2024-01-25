@@ -97,7 +97,6 @@
 
    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushmandliya&show_icons=true&locale=en" alt="ayushmandliya" /></p>
    
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmandliya&" alt="ayushmandliya" /></p>
-      
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmandliya&" alt="ayushmandliya" /></p>      
    <br>
    
