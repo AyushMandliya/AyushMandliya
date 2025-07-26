@@ -4,7 +4,7 @@
 
     ## About Me
     
-    - 🎓 Pre-placement year student pursuing Bachelor of Technology at Jaypee University of engineering and Technology .
+    - 🎓 Completed Bachelor of Technology at Jaypee University of engineering and Technology .
     - 💻 Passionate about coding and software development.
     - 🚀 Actively seeking opportunities to enhance my skills and contribute to meaningful projects.
     
