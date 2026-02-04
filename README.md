@@ -1,102 +1,59 @@
-   
-   <p align="left"><aside>
-    # 👋 Hello, I'm Ayush Mandliya
+<h1 align="center">Hi 👋, I'm Ayush Mandliya</h1>
+<h3 align="center">Software Engineer | SAP ABAP Consultant | Full-Stack Developer</h3>
 
-    ## About Me
-    
-    - 🎓 Completed Bachelor of Technology at Jaypee University of engineering and Technology .
-    - 💻 Passionate about coding and software development.
-    - 🚀 Actively seeking opportunities to enhance my skills and contribute to meaningful projects.
-    
-   </aside> 
-   </p>
-   
+---
 
+## 🚀 About Me
 
-    class MyGitHubJourney {
-    constructor() {
-        this.username = "Ayush Mandliya";
-        this.email = "ayushmandliya5@gmail.com";
-        this.currentMission = "Conquering the coding cosmos";
-        this.favoriteTechStack = ["JavaScript", "React", "Node.js"];
-        this.programming = ["C", "C++", "Python"];
-        this.connectOnPlatforms = {
-            LinkedIn: "https://linkedin.com/in/ayush-mandliya-226735227",
-            Facebook: "https://www.facebook.com/ayushjimandliya/",
-            Instagram: "https://www.instagram.com/_.aa_ush._ji_/",
-        };
-    }
+- 🎓 B.Tech in Computer Science from **Jaypee University of Engineering & Technology (2025)**
+- 💼 Associate Consultant – **SAP ABAP**
+- 🔁 Experience in **ECC → S/4HANA transformations**
+- 💻 Strong foundation in **SAP ABAP + MERN Stack**
+- 🧠 300+ LeetCode problems solved (Max Rating: **1649**)
+- 📍 Bengaluru, India
 
-    greetWorld() {
-        return "Hello, fellow explorer! 🌍✨";
-    }
+---
 
-    shareExperience() {
-        return "Embarking on an epic journey through code. Join me in the quest for knowledge and innovation!";
-    }
+## 🧠 Tech Stack
 
-    getContactInfo() {
-        let contactInfo = `📧 Connect with me via email: ${this.email}\n🔗 Find me on: ayushmandliya5@gmail.com`;
-        for (const [platform, link] of Object.entries(this.connectOnPlatforms)) {
-            contactInfo += `\n   - [${platform}](${link})`;
-        }
-        return contactInfo;
-      }
-    }
+### 💡 Programming
+![Skills](https://skillicons.dev/icons?i=c,cpp,js,java,py,sql)
 
-    const adventurer = new MyGitHubJourney();
-    console.log(adventurer.greetWorld());
-    console.log(adventurer.shareExperience());
-    console.log(adventurer.getContactInfo());
+### 🧩 SAP Technologies
+- ABAP Programming
+- RICEFW
+- Smart Forms / Adobe Forms
+- Module Pool
+- IDoc, BAPI, OData
+- DDIC
+- EPC & HCC Issue Resolution
+- ECC → S/4HANA Migration
 
-   
-   -------------------
-   
-   ## Me around the web:
-   -------------------
-   [![My Socials](https://skillicons.dev/icons?i=linkedin,twitter,instagram,github,stackoverflow,devto,discord&perline=11)](https://skillicons.dev)
-   &emsp;
-   <br/><br/>
-   <a href="https://www.linkedin.com/in/ayush-mandliya-226735227">
-       ![Linkedin: Ayush Mandliya](https://img.shields.io/badge/-AyushMandliya-blue?style=flat-square&logo=Linkedin&logoColor=white)
-   </a>
-   <a href="https://twitter.com/ayushmandliya5">
-       ![Twitter: Ayush](https://img.shields.io/twitter/follow/AyushMandliya?style=social)
-   </a>
-   <a href="https://www.instagram.com/_just__maybe__?igsh=Z3dwNnZtY3ozNnRx">
-       ![Instagram: Ayush](https://img.shields.io/badge/-AyushMandliya-000?&logo=Instagram)
-   </a>
-   <a href="https://github.com/AyushMandliya">
-       ![GitHub: Ayush](https://img.shields.io/github/followers/AyushMandliya?label=follow&style=social)
-   </a>
-   
-   ## 🛠️ My Skills
-   -------------------
-   ### Programming languages:
-   &emsp;
-   [![My ProgrammingSkills](https://skillicons.dev/icons?i=cpp,js,c,java,py&perline=11)](https://skillicons.dev)
-   
-   ### Dev Stack:
-   &emsp;
-   [![My Stack](https://skillicons.dev/icons?i=react,redux,next,nodejs,tailwind,materialui,css,scss,html)](https://skillicons.dev)
-   
-   ### Tool Stack:
-   &emsp;
-   [![My Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,powershell,netlify,replit,figma)](https://skillicons.dev)
-   
-   ### Databases:
-   &emsp;
-   [![My Frameworks](https://skillicons.dev/icons?i=mysql,sqlite,mongo&perline=11)](https://skillicons.dev)
-   
-   &emsp;
-   
-   ## 💻📊🔥 Statistics and Activity
-      
-   ###  Streak Stats
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushmandliya&show_icons=true&locale=en&layout=compact" alt="ayushmandliya" /></p>
+### 🌐 Web Stack
+![Web](https://skillicons.dev/icons?i=react,next,nodejs,mongo,tailwind,bootstrap,html,css)
 
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushmandliya&show_icons=true&locale=en" alt="ayushmandliya" /></p>
-   
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmandliya&" alt="ayushmandliya" /></p>      
-   <br>
-   
+### 🛠 Tools
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,figma)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushmandliya&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmandliya" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+- 📧 **Email:** ayushmandliya5@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/ayush-mandliya-226735227](https://linkedin.com/in/ayush-mandliya-226735227)
+- 🐙 **GitHub:** [github.com/AyushMandliya](https://github.com/AyushMandliya)
+- 🐦 **Twitter:** [@ayushmandliya5](https://twitter.com/ayushmandliya5)
+- 📸 **Instagram:** [@_.aa_ush._ji_](https://instagram.com/__a.ayushman)
+
+---
+
+✨ *Always learning. Always building.*
