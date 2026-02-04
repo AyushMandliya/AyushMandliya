@@ -40,8 +40,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushmandliya&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmandliya" />
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushmandliya&show_icons=true&locale=en&layout=compact" alt="ayushmandliya" /></p>
+
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushmandliya&show_icons=true&locale=en" alt="ayushmandliya" /></p>
+   
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmandliya&" alt="ayushmandliya" /></p>      
+   <br>
 </p>
 
 ---
